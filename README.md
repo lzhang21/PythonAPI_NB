@@ -1,3 +1,3 @@
 # PythonAPI_NB
 Repo of all Jupyter Notebooks
-- Demostrating Sample Workflows using the Python API, ArcPy, and the R-ArcGIS Bridge
+- Sample GIS Workflows using the ArcGIS API for Python, ArcPy, and the R-ArcGIS Bridge
